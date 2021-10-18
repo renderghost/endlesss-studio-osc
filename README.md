@@ -1,4 +1,4 @@
-# Endlesss Studio OSC allows you to control **Endlesss Studio** with your iPad.
+# Control **Endlesss Studio** with your iPad and TouchOSC.
 
 I'm a huge fan of [Endlesss](https://endlesss.fm). I play a lot on my phone, but I needed a dedicated controller to get the same experience. I've been interested in TouchOSC for a while and thought this would make a fun project to kill two birds with one stone.
 
