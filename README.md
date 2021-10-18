@@ -14,7 +14,6 @@ You will also need these files
 
 - [Endlesss Studio OSC 1.0.tosc](https://github.com/renderghost/endlesss-studio-osc/blob/2cff50652fdaa44cae23730d1de5a2377d62f562/Endlesss%20Studio%20OSC%201.0.tosc)
 - [Endlesss Studio OSC.midiprofile](https://github.com/renderghost/endlesss-studio-osc/blob/2cff50652fdaa44cae23730d1de5a2377d62f562/Endlesss%20Studio%20OSC.midiprofile)
-![endless-studio-osc-1_0](https://user-images.githubusercontent.com/21337875/137805545-5b8120e1-f8bf-4b8b-b582-5ef3e3a83cbb.jpeg)
 
 ## Installation
 
