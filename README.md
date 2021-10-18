@@ -22,6 +22,8 @@ Open **TouchOSC** on your iPad
 3. Choose `Endlesss Studio OSC 1.0.tosc`
 4. Press "Play" to use the patch
 
+![touchosc.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/touchosc.jpeg)
+
 ## Configure Endlesss
 
 Open **Endlesss** (standalone or VST) on your Mac
@@ -30,8 +32,9 @@ Open **Endlesss** (standalone or VST) on your Mac
 2. **Import** `Endlesss Studio OSC.midiprofile` into your list of *Midi Mappings* presets
 3. Close *Midi Mappings* (top-right)
 
-![Screenshot 2021-10-18 at 22.15.42.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b690aa93-07c2-491d-b540-06f16a523cab/Screenshot_2021-10-18_at_22.15.42.png)
+![endlesss.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/endlesss.jpeg)
 
 # Further Reading
 
 - If you're struggling to get TouchOSC to speak to your iPad, read this guide by [Hexler](https://hexler.net/touchosc/manual/getting-started)
+- Join the [Endlesss Community on Discord](https://discord.com/invite/hytvqRm)
