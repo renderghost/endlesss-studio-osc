@@ -1,4 +1,4 @@
-![endless-studio-osc-1_0.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/a61391baba0d9d65c55764195fbf14d1a146bab1/endless-studio-osc-1_0.jpeg)
+![endless-studio-osc-1_0.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/main/endless-studio-osc-1_0.jpeg)
 
 # Requirements
 
