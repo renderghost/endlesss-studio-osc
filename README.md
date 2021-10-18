@@ -1,37 +1,37 @@
-## Endlesss Studio OSC
+# Requirements
 
-You can use the [editor on GitHub](https://github.com/renderghost/endlesss-studio-osc/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+To use the latest version of **Endlesss Studio OSC**, you will need:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Endlesss for Desktop](https://endlesss.fm/) running on OSX
+- [TouchOSC Bridge](https://apps.apple.com/app/touchosc/id1569996730) running on OSX
+- [TouchOSC](https://apps.apple.com/app/touchosc/id1569996730) running on an iPad Pro 12.9"
 
-### Markdown
+You will also need these files
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Endlesss Studio OSC 1.0.tosc](https://github.com/renderghost/endlesss-studio-osc/blob/2cff50652fdaa44cae23730d1de5a2377d62f562/Endlesss%20Studio%20OSC%201.0.tosc)
+- [Endlesss Studio OSC.midiprofile](https://github.com/renderghost/endlesss-studio-osc/blob/2cff50652fdaa44cae23730d1de5a2377d62f562/Endlesss%20Studio%20OSC.midiprofile)
 
-```markdown
-Syntax highlighted code block
+# Installation
 
-# Header 1
-## Header 2
-### Header 3
+## Configure TouchOSC
 
-- Bulleted
-- List
+Open **TouchOSC** on your iPad
 
-1. Numbered
-2. List
+1. Open the side menu by pressing the icon to the right of the tab bar
+2. Press "Upload" (icon of a box with an upward-facing arrow) then "Import"
+3. Choose `Endlesss Studio OSC 1.0.tosc`
+4. Press "Play" to use the patch
 
-**Bold** and _Italic_ and `Code` text
+## Configure Endlesss
 
-[Link](url) and ![Image](src)
-```
+Open **Endlesss** (standalone or VST) on your Mac
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Open *Midi Mappings* (top-right)
+2. **Import** `Endlesss Studio OSC.midiprofile` into your list of *Midi Mappings* presets
+3. Close *Midi Mappings* (top-right)
 
-### Jekyll Themes
+![Screenshot 2021-10-18 at 22.15.42.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b690aa93-07c2-491d-b540-06f16a523cab/Screenshot_2021-10-18_at_22.15.42.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renderghost/endlesss-studio-osc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Further Reading
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- If you're struggling to get TouchOSC to speak to your iPad, read this guide by [Hexler](https://hexler.net/touchosc/manual/getting-started)
