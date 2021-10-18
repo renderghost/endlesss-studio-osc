@@ -1,6 +1,8 @@
+# Endlesss Studio OSC allows your to control **Endlesss Studio** with your iPad.
+
 ![endless-studio-osc-1_0.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/main/endless-studio-osc-1_0.jpeg)
 
-# Requirements
+## Requirements
 
 To use the latest version of **Endlesss Studio OSC**, you will need:
 
@@ -14,9 +16,9 @@ You will also need these files
 - [Endlesss Studio OSC.midiprofile](https://github.com/renderghost/endlesss-studio-osc/blob/2cff50652fdaa44cae23730d1de5a2377d62f562/Endlesss%20Studio%20OSC.midiprofile)
 ![endless-studio-osc-1_0](https://user-images.githubusercontent.com/21337875/137805545-5b8120e1-f8bf-4b8b-b582-5ef3e3a83cbb.jpeg)
 
-# Installation
+## Installation
 
-## Configure TouchOSC
+### Configure TouchOSC
 
 Open **TouchOSC** on your iPad
 
@@ -27,7 +29,7 @@ Open **TouchOSC** on your iPad
 
 ![touchosc.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/touchosc.jpeg)
 
-## Configure Endlesss
+### Configure Endlesss
 
 Open **Endlesss** (standalone or VST) on your Mac
 
@@ -37,7 +39,9 @@ Open **Endlesss** (standalone or VST) on your Mac
 
 ![endlesss.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/endlesss.jpeg)
 
-# Further Reading
+## Further Reading
+
+That's it!
 
 - If you're struggling to get TouchOSC to speak to your iPad, read this guide by [Hexler](https://hexler.net/touchosc/manual/getting-started)
 - Join the [Endlesss Community on Discord](https://discord.com/invite/hytvqRm)
