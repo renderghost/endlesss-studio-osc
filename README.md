@@ -1,10 +1,31 @@
 # Control **Endlesss Studio** with your iPad and TouchOSC.
 
-I'm a huge fan of [Endlesss](https://endlesss.fm). I play a lot on my phone, but I needed a dedicated controller to get the same experience. I've been interested in TouchOSC for a while and thought this would make a fun project to kill two birds with one stone.
+I'm a huge fan of [Endlesss](https://endlesss.fm). I play a lot on my phone, but I needed a dedicated controller to get the same experience. I've been interested in [TouchOSC](https://hexler.net/touchosc) for a while and thought this would make a fun project to *kill two birds with one stone*.
 
-If you have ideas for features, [start a discussion](https://github.com/renderghost/endlesss-studio-osc/discussions)
+If you have ideas for changes, please [start a discussion](https://github.com/renderghost/endlesss-studio-osc/discussions)
 
 ![endless-studio-osc-1_0.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/main/endless-studio-osc-1_0.jpeg)
+
+## Features
+
+**Version 1.0**
+Everything mappable in *Endlesss Studio* can be mapped to *Endlesss Studio OSC*
+
+- [x] BPM
+- [x] Play / Pause
+- [x] Looping
+- [x] The Mixer
+- [x] The Pad Buttons
+- [x] The Effect Controls
+- [x] Recording to the Sampler
+- [x] Preset Selection
+
+## Wishlist
+- [ ] Switchable 2x Octave 🎹
+- [ ] Pitchshifter
+- [ ] Support for multiple device
+- [ ] Feedback
+- [ ] Metronome
 
 ## Requirements
 
