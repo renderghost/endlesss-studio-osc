@@ -6,7 +6,7 @@ I'm a huge fan of [Endlesss](https://endlesss.fm). I play a lot on my phone, but
 
 If you have ideas for changes, please :bulb: [start a discussion](https://github.com/renderghost/endlesss-studio-osc/discussions)
 
-![endless-studio-osc-1_0.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/main/endless-studio-osc-1_0.jpeg)
+![Latest Version](https://github.com/renderghost/endlesss-studio-osc/blob/main/latest-version.jpeg)
 
 ## Latest Features
 
@@ -62,7 +62,7 @@ Open **TouchOSC** on your iPad
 3. Choose `endlesss studio osc.tosc`
 4. Press "Play" to use the patch
 
-![touchosc.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/touchosc.jpeg)
+![Configure Touch OSC](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/config-touchosc.jpeg)
 
 ### Configure Endlesss
 
@@ -72,7 +72,7 @@ Open **Endlesss** (standalone or VST) on your Mac
 2. **Import** `endlesss studio osc.midiprofile` into your list of *Midi Mappings* presets
 3. Close *Midi Mappings* (top-right)
 
-![endlesss.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/endlesss.jpeg)
+![Configure Endlesss](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/config-endlesss.jpeg)
 
 ## Further Reading
 
