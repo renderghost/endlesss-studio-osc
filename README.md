@@ -1,12 +1,10 @@
 # :control_knobs: Control **Endlesss Studio** with your iPad and TouchOSC
 
+![Latest Version](https://github.com/renderghost/endlesss-studio-osc/blob/main/thumb-latest-version.jpeg)
+
 I'm a huge fan of [Endlesss](https://endlesss.fm). I play a lot on my phone, but I needed a dedicated controller to get the same experience on desktop. I've been interested in [TouchOSC](https://hexler.net/touchosc) for a while, and thought this would make a fun project to *kill two birds with one stone*.
 
-:no_mobile_phones: I made this for use with an iPad Pro 12.9". This controller has a [Creative Commons license](https://github.com/renderghost/endlesss-studio-osc/blob/main/LICENSE) so feel free to resize it to your device, or do whatever else you want with it. Just don't sell it. I'd love to see what you come up with.
-
 If you have ideas for changes, please :bulb: [start a discussion](https://github.com/renderghost/endlesss-studio-osc/discussions)
-
-![Latest Version](https://github.com/renderghost/endlesss-studio-osc/blob/main/latest-version.jpeg)
 
 ## Latest Features
 
@@ -53,6 +51,8 @@ You will also need these files
 
 ## Installation
 
+:no_mobile_phones: I made this for use with an iPad Pro 12.9". This controller has a [Creative Commons license](https://github.com/renderghost/endlesss-studio-osc/blob/main/LICENSE) so feel free to resize it to your device, or do whatever else you want with it. Just don't sell it. I'd love to see what you come up with.
+
 ### Configure TouchOSC
 
 Open **TouchOSC** on your iPad
@@ -74,9 +74,13 @@ Open **Endlesss** (standalone or VST) on your Mac
 
 ![Configure Endlesss](https://github.com/renderghost/endlesss-studio-osc/blob/main/config-endlesss.jpeg)
 
-## Further Reading
+## That's it!
 
-That's it!
+You should now be able to use the controller in your next Jams... Enjoy!
+
+![Latest Version](https://github.com/renderghost/endlesss-studio-osc/blob/main/latest-version.jpeg)
+
+## Further Reading
 
 - If you're struggling to get TouchOSC to speak to your iPad, read this guide by [Hexler](https://hexler.net/touchosc/manual/getting-started)
 - Join the [Endlesss Community on Discord](https://discord.com/invite/hytvqRm)
