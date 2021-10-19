@@ -8,9 +8,19 @@ If you have ideas for changes, please :bulb: [start a discussion](https://github
 
 ![endless-studio-osc-1_0.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/main/endless-studio-osc-1_0.jpeg)
 
-## Features
+## Latest Features
 
-**Version 1.0**
+### Version 1.1
+Small improvements to aid usability and performance.
+
+- [x] *Effect Controls* and *Pad Buttons* now match *Instrument* colours
+- [x] Selecting the *Sampler( instrument now enables the *Resampler* button
+- [x] Selecting the *FX* instrument now enables the *XY pad*
+- [x] Changed the BPM knob behaviour to horizontal scroll (instead of rotary turn)
+
+Plus some minor improvements to colours, layout, sizes, and mapping logic.
+
+### Version 1.0
 Everything mappable in *Endlesss Studio* can be mapped to *Endlesss Studio OSC*
 
 - [x] BPM
@@ -20,14 +30,13 @@ Everything mappable in *Endlesss Studio* can be mapped to *Endlesss Studio OSC*
 - [x] The Pad Buttons
 - [x] The Effect Controls
 - [x] Recording to the Sampler
-- [x] Preset Selection
+- [x] Instrument and Preset Selection
 
-## Wishlist
-- [ ] Switchable 2x Octave 🎹
-- [ ] Pitchshifter
+## Roadmap
+- [ ] 2x octave 🎹 keyboard
 - [ ] Support for multiple device
-- [ ] Feedback
-- [ ] Metronome
+- [ ] Display BPM
+- [ ] Visual Metronome
 
 ## Requirements
 
