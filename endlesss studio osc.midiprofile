@@ -16,7 +16,7 @@
   },
   "playState": {
     "midiMessageId": 1,
-    "midiMessageChannel": 7,
+    "midiMessageChannel": 1,
     "midiMessageType": "Note"
   },
   "oneBarLoop": {
@@ -25,8 +25,8 @@
     "midiMessageType": "Note"
   },
   "effectY": {
-    "midiMessageId": 2,
-    "midiMessageChannel": 4,
+    "midiMessageId": -1,
+    "midiMessageChannel": -1,
     "midiMessageType": "ControlChange"
   },
   "sampler": {
@@ -35,9 +35,9 @@
     "midiMessageType": "Note"
   },
   "effectEnabled": {
-    "midiMessageId": 1,
-    "midiMessageChannel": 4,
-    "midiMessageType": "ControlChange"
+    "midiMessageId": -1,
+    "midiMessageChannel": -1,
+    "midiMessageType": "Note"
   },
   "microphone": {
     "midiMessageId": 6,
@@ -196,42 +196,42 @@
   "loopRoutes": [
     {
       "midiMessageId": 8,
-      "midiMessageChannel": 1,
+      "midiMessageChannel": 7,
       "midiMessageType": "Note"
     },
     {
       "midiMessageId": 7,
-      "midiMessageChannel": 1,
+      "midiMessageChannel": 7,
       "midiMessageType": "Note"
     },
     {
       "midiMessageId": 6,
-      "midiMessageChannel": 1,
+      "midiMessageChannel": 7,
       "midiMessageType": "Note"
     },
     {
       "midiMessageId": 5,
-      "midiMessageChannel": 1,
+      "midiMessageChannel": 7,
       "midiMessageType": "Note"
     },
     {
       "midiMessageId": 4,
-      "midiMessageChannel": 1,
+      "midiMessageChannel": 7,
       "midiMessageType": "Note"
     },
     {
       "midiMessageId": 3,
-      "midiMessageChannel": 1,
+      "midiMessageChannel": 7,
       "midiMessageType": "Note"
     },
     {
       "midiMessageId": 2,
-      "midiMessageChannel": 1,
+      "midiMessageChannel": 7,
       "midiMessageType": "Note"
     },
     {
       "midiMessageId": 1,
-      "midiMessageChannel": 1,
+      "midiMessageChannel": 7,
       "midiMessageType": "Note"
     }
   ],
@@ -308,8 +308,8 @@
     "midiMessageType": "Note"
   },
   "punchInOutClip": {
-    "midiMessageId": 1,
-    "midiMessageChannel": 5,
+    "midiMessageId": 5,
+    "midiMessageChannel": 6,
     "midiMessageType": "Note"
   },
   "nextPreset": {
@@ -375,8 +375,8 @@
     "midiMessageType": "Note"
   },
   "effectX": {
-    "midiMessageId": 1,
-    "midiMessageChannel": 4,
+    "midiMessageId": -1,
+    "midiMessageChannel": -1,
     "midiMessageType": "ControlChange"
   },
   "loopMutes": [
