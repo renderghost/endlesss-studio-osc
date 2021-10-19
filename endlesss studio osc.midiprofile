@@ -1,0 +1,424 @@
+{
+  "previousPreset": {
+    "midiMessageId": 100,
+    "midiMessageChannel": 3,
+    "midiMessageType": "Note"
+  },
+  "tempo": {
+    "midiMessageId": 76,
+    "midiMessageChannel": 1,
+    "midiMessageType": "ControlChange"
+  },
+  "metronomeVolume": {
+    "midiMessageId": -1,
+    "midiMessageChannel": -1,
+    "midiMessageType": "ControlChange"
+  },
+  "playState": {
+    "midiMessageId": 1,
+    "midiMessageChannel": 7,
+    "midiMessageType": "Note"
+  },
+  "oneBarLoop": {
+    "midiMessageId": 1,
+    "midiMessageChannel": 6,
+    "midiMessageType": "Note"
+  },
+  "effectY": {
+    "midiMessageId": 2,
+    "midiMessageChannel": 4,
+    "midiMessageType": "ControlChange"
+  },
+  "sampler": {
+    "midiMessageId": 4,
+    "midiMessageChannel": 4,
+    "midiMessageType": "Note"
+  },
+  "effectEnabled": {
+    "midiMessageId": 1,
+    "midiMessageChannel": 4,
+    "midiMessageType": "ControlChange"
+  },
+  "microphone": {
+    "midiMessageId": 6,
+    "midiMessageChannel": 4,
+    "midiMessageType": "Note"
+  },
+  "metronomeOnOff": {
+    "midiMessageId": -1,
+    "midiMessageChannel": -1,
+    "midiMessageType": "Note"
+  },
+  "fx": {
+    "midiMessageId": 5,
+    "midiMessageChannel": 4,
+    "midiMessageType": "Note"
+  },
+  "loopLevels": [
+    {
+      "midiMessageId": 0,
+      "midiMessageChannel": 1,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 1,
+      "midiMessageChannel": 1,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 2,
+      "midiMessageChannel": 1,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 3,
+      "midiMessageChannel": 1,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 4,
+      "midiMessageChannel": 1,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 5,
+      "midiMessageChannel": 1,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 6,
+      "midiMessageChannel": 1,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 7,
+      "midiMessageChannel": 1,
+      "midiMessageType": "ControlChange"
+    }
+  ],
+  "padGrid": [
+    {
+      "midiMessageId": 1,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 5,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 9,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 13,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 2,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 6,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 10,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 14,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 3,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 7,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 11,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 15,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 4,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 8,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 12,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 16,
+      "midiMessageChannel": 5,
+      "midiMessageType": "Note"
+    }
+  ],
+  "eightBarLoop": {
+    "midiMessageId": 4,
+    "midiMessageChannel": 6,
+    "midiMessageType": "Note"
+  },
+  "drums": {
+    "midiMessageId": 1,
+    "midiMessageChannel": 4,
+    "midiMessageType": "Note"
+  },
+  "makeNewRifff": {
+    "midiMessageId": 6,
+    "midiMessageChannel": 6,
+    "midiMessageType": "Note"
+  },
+  "loopRoutes": [
+    {
+      "midiMessageId": 8,
+      "midiMessageChannel": 1,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 7,
+      "midiMessageChannel": 1,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 6,
+      "midiMessageChannel": 1,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 5,
+      "midiMessageChannel": 1,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 4,
+      "midiMessageChannel": 1,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 3,
+      "midiMessageChannel": 1,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 2,
+      "midiMessageChannel": 1,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 1,
+      "midiMessageChannel": 1,
+      "midiMessageType": "Note"
+    }
+  ],
+  "presets": [
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    },
+    {
+      "midiMessageId": -1,
+      "midiMessageChannel": -1,
+      "midiMessageType": "ProgramChange"
+    }
+  ],
+  "notes": {
+    "midiMessageId": 2,
+    "midiMessageChannel": 4,
+    "midiMessageType": "Note"
+  },
+  "punchInOutLooper": {
+    "midiMessageId": -1,
+    "midiMessageChannel": -1,
+    "midiMessageType": "Note"
+  },
+  "punchInOutClip": {
+    "midiMessageId": 1,
+    "midiMessageChannel": 5,
+    "midiMessageType": "Note"
+  },
+  "nextPreset": {
+    "midiMessageId": 9,
+    "midiMessageChannel": 3,
+    "midiMessageType": "Note"
+  },
+  "bass": {
+    "midiMessageId": 3,
+    "midiMessageChannel": 4,
+    "midiMessageType": "Note"
+  },
+  "twoBarLoop": {
+    "midiMessageId": 2,
+    "midiMessageChannel": 6,
+    "midiMessageType": "Note"
+  },
+  "macros": [
+    {
+      "midiMessageId": 0,
+      "midiMessageChannel": 3,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 1,
+      "midiMessageChannel": 3,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 2,
+      "midiMessageChannel": 3,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 3,
+      "midiMessageChannel": 3,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 4,
+      "midiMessageChannel": 3,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 5,
+      "midiMessageChannel": 3,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 6,
+      "midiMessageChannel": 3,
+      "midiMessageType": "ControlChange"
+    },
+    {
+      "midiMessageId": 7,
+      "midiMessageChannel": 3,
+      "midiMessageType": "ControlChange"
+    }
+  ],
+  "fourBarLoop": {
+    "midiMessageId": 3,
+    "midiMessageChannel": 6,
+    "midiMessageType": "Note"
+  },
+  "effectX": {
+    "midiMessageId": 1,
+    "midiMessageChannel": 4,
+    "midiMessageType": "ControlChange"
+  },
+  "loopMutes": [
+    {
+      "midiMessageId": 9,
+      "midiMessageChannel": 2,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 8,
+      "midiMessageChannel": 2,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 7,
+      "midiMessageChannel": 2,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 6,
+      "midiMessageChannel": 2,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 5,
+      "midiMessageChannel": 2,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 4,
+      "midiMessageChannel": 2,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 3,
+      "midiMessageChannel": 2,
+      "midiMessageType": "Note"
+    },
+    {
+      "midiMessageId": 2,
+      "midiMessageChannel": 2,
+      "midiMessageType": "Note"
+    }
+  ]
+} 
