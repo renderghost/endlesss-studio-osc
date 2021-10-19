@@ -1,5 +1,3 @@
-
-
 # Control **Endlesss Studio** with your iPad and TouchOSC :control_knobs:
 
 I'm a huge fan of [Endlesss](https://endlesss.fm). I play a lot on my phone, but I needed a dedicated controller to get the same experience on desktop. I've been interested in [TouchOSC](https://hexler.net/touchosc) for a while, and thought this would make a fun project to *kill two birds with one stone*.
@@ -52,7 +50,7 @@ Open **TouchOSC** on your iPad
 
 1. Open the side menu by pressing the icon to the right of the tab bar
 2. Press "Upload" (icon of a box with an upward-facing arrow) then "Import"
-3. Choose `Endlesss Studio OSC 1.0.tosc`
+3. Choose `endlesss studio osc.tosc`
 4. Press "Play" to use the patch
 
 ![touchosc.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/touchosc.jpeg)
@@ -62,7 +60,7 @@ Open **TouchOSC** on your iPad
 Open **Endlesss** (standalone or VST) on your Mac
 
 1. Open *Midi Mappings* (top-right)
-2. **Import** `Endlesss Studio OSC.midiprofile` into your list of *Midi Mappings* presets
+2. **Import** `endlesss studio osc.midiprofile` into your list of *Midi Mappings* presets
 3. Close *Midi Mappings* (top-right)
 
 ![endlesss.jpeg](https://github.com/renderghost/endlesss-studio-osc/blob/4bf43205acef9e9bb911625b1bfb674170f0e733/endlesss.jpeg)
