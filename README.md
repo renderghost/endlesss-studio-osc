@@ -14,6 +14,8 @@ Added
 
 - [x] Jam Space! I added a new panel to give you a bit more space to play when you're jamming
 
+![Jam Space](https://github.com/renderghost/endlesss-studio-osc/blob/main/jam-space.jpeg)
+
 Fixed
 
 - [x] The XY pad now has a hold button to toggle the sound
