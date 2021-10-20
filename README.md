@@ -60,10 +60,10 @@ To use the latest version of **Endlesss Studio OSC**, you will need:
 - [TouchOSC Bridge](https://apps.apple.com/app/touchosc/id1569996730) running on OSX
 - [TouchOSC](https://apps.apple.com/app/touchosc/id1569996730) running on an iPad Pro 12.9"
 
-You will also need these files
+You will also need to download these files to your devices
 
-- [Endlesss Studio OSC 1.0.tosc](https://github.com/renderghost/endlesss-studio-osc/blob/5e581fa39b33752ff01420b8beb9bf039809ad2d/endlesss%20studio%20osc.tosc)
-- [Endlesss Studio OSC.midiprofile](https://github.com/renderghost/endlesss-studio-osc/blob/5e581fa39b33752ff01420b8beb9bf039809ad2d/endlesss%20studio%20osc.midiprofile)
+- endlesss studio osc.tosc
+- endlesss studio osc.midiprofile
 
 ## Installation
 
