@@ -25,8 +25,8 @@
     "midiMessageType": "Note"
   },
   "effectY": {
-    "midiMessageId": -1,
-    "midiMessageChannel": -1,
+    "midiMessageId": 2,
+    "midiMessageChannel": 4,
     "midiMessageType": "ControlChange"
   },
   "sampler": {
@@ -35,8 +35,8 @@
     "midiMessageType": "Note"
   },
   "effectEnabled": {
-    "midiMessageId": -1,
-    "midiMessageChannel": -1,
+    "midiMessageId": 21,
+    "midiMessageChannel": 7,
     "midiMessageType": "Note"
   },
   "microphone": {
@@ -375,8 +375,8 @@
     "midiMessageType": "Note"
   },
   "effectX": {
-    "midiMessageId": -1,
-    "midiMessageChannel": -1,
+    "midiMessageId": 1,
+    "midiMessageChannel": 7,
     "midiMessageType": "ControlChange"
   },
   "loopMutes": [
