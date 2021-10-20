@@ -8,13 +8,27 @@ If you have ideas for changes, please :bulb: [start a discussion](https://github
 
 ## Latest Features
 
+### Version 1.2
+
+Added
+
+- [x] Jam Space! I added a new panel to give you a bit more space to play when you're jamming
+
+Fixed
+
+- [x] The XY pad now has a hold button to toggle the sound
+
+Plus some minor improvements to colours, layout, sizes, and mapping logic.
+
 ### Version 1.1
 Small improvements to aid usability and performance.
 
+Fixed
+
 - [x] *Effect Controls* and *Pad Buttons* now match *Instrument* colours
-- [x] Selecting the *Sampler( instrument now enables the *Resampler* button
+- [x] Selecting the *Sampler* instrument now enables the *Resampler* button
 - [x] Selecting the *FX* instrument now enables the *XY pad*
-- [x] Changed the BPM knob behaviour to horizontal scroll (instead of rotary turn)
+- [x] BPM knob behaviour is now horizontal scroll instead of rotary turn
 
 Plus some minor improvements to colours, layout, sizes, and mapping logic.
 
@@ -46,8 +60,8 @@ To use the latest version of **Endlesss Studio OSC**, you will need:
 
 You will also need these files
 
-- [Endlesss Studio OSC 1.0.tosc](https://github.com/renderghost/endlesss-studio-osc/blob/2cff50652fdaa44cae23730d1de5a2377d62f562/Endlesss%20Studio%20OSC%201.0.tosc)
-- [Endlesss Studio OSC.midiprofile](https://github.com/renderghost/endlesss-studio-osc/blob/2cff50652fdaa44cae23730d1de5a2377d62f562/Endlesss%20Studio%20OSC.midiprofile)
+- [Endlesss Studio OSC 1.0.tosc](https://github.com/renderghost/endlesss-studio-osc/blob/5e581fa39b33752ff01420b8beb9bf039809ad2d/endlesss%20studio%20osc.tosc)
+- [Endlesss Studio OSC.midiprofile](https://github.com/renderghost/endlesss-studio-osc/blob/5e581fa39b33752ff01420b8beb9bf039809ad2d/endlesss%20studio%20osc.midiprofile)
 
 ## Installation
 
